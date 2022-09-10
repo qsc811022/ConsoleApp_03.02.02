@@ -23,7 +23,8 @@ namespace ConsoleApp_03._02._02
             string path2 = "d:\\mydocument\\file.txt"; // 加上逸出字元才是正確寫法
             Console.WriteLine(path);
             Console.WriteLine(path2);
-
+            //string value = "this is \"a\" book.";
+            //string value2 = @"this is ""a"" book.";
 
         }
     }
